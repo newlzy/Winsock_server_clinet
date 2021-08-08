@@ -1,0 +1,20 @@
+﻿生成启动时间为 2021/8/5 16:40:32。
+日志记录详细程度设置为: Normal。     1>项目“D:\jiang\练习代码\网络编程代码\win\第一章\客户端\clinet\clinet\clinet.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\clinet.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\vs\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt clinet.cpp
+         clinet.cpp
+       Link:
+         D:\vs\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\jiang\练习代码\网络编程代码\win\第一章\客户端\clinet\Debug\clinet.exe" /INCREMENTAL /ILK:"Debug\clinet.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\jiang\练习代码\网络编程代码\win\第一章\客户端\clinet\Debug\clinet.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\jiang\练习代码\网络编程代码\win\第一章\客户端\clinet\Debug\clinet.lib" /MACHINE:X86 Debug\clinet.obj
+         clinet.vcxproj -> D:\jiang\练习代码\网络编程代码\win\第一章\客户端\clinet\Debug\clinet.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\clinet.tlog\unsuccessfulbuild”。
+         正在对“Debug\clinet.tlog\clinet.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\jiang\练习代码\网络编程代码\win\第一章\客户端\clinet\clinet\clinet.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:03.89
